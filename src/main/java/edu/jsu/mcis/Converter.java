@@ -1,4 +1,4 @@
-package csvtest;
+package edu.jsu.mcis;
 
 //import com.opencsv.*; // change this to the old package name shown below before building in Gradle!
 import au.com.bytecode.opencsv.*; // this is the old package name required by the Gradle plugin!
